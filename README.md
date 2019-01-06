@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Note
 Need to install @angular/material, @angular/cdk And 
-this library (using below command:
-> npm install --save 'git+https://github.com/arun-vishwakarma/my-library.git')
+this library using below command:
+> npm install --save git+https://github.com/arun-vishwakarma/my-library.git
 in your project
 
 ## Development server
