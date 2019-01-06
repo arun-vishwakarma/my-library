@@ -3,7 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
 # Note
-Need to install @angular/material @angular/cdk in your project
+Need to install @angular/material, @angular/cdk And 
+this library (using below command:
+> npm install --save 'git+https://github.com/arun-vishwakarma/my-library.git')
+in your project
 
 ## Development server
 
